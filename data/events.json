@@ -1,0 +1,9 @@
+{
+    "events": [
+        {
+            "epc": "EPC_001",
+            "event_type": "INWARD",
+            "location": "WAREHOUSE_A"
+        }
+    ]
+}
